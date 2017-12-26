@@ -1,0 +1,5 @@
+image
+*.o
+*.ko
+*.symvers
+*.order
